@@ -1,11 +1,11 @@
 ## Synopsis
 Movie website that introduces a list of movies with their corresponding name and image. The trailer is embedded in the image.
-Frontend is built in html and css using bootstrap. Backend is built in python
+Frontend is built in html and css using bootstrap. Backend is built in python.
 
 ## Directions
 To add a movie to the list.
 ```
-movieName = media.Movie("title", "quick story", "image link", "youtube link")
+movieName = media.Movie("title", "quick story", "image link", "youtube trailer link")
 
 #append movieName to 'movies' array list
 ```
